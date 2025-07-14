@@ -10,11 +10,8 @@ A Vietnamese Text-to-Speech library that provides high-quality speech synthesis 
 - 📱 **Dual interfaces** - Both CLI and Python API
 - 🔄 **Chunk processing** - Handle long texts efficiently
 
-## Live Demo
 
 Try VietVoice TTS online with our interactive Gradio interface before installing the library:
-
-**🌐 [VietVoice TTS/](https://demo.nguyenbinh.dev/tts)**
 
 The demo allows you to:
 - Test different voice options (gender, accent, emotion, style)
@@ -192,7 +189,3 @@ By using VietVoice TTS, you agree to the following terms:
 ## License
 
 This project is licensed under the MIT License.
-
-## Support
-
-For issues and questions, please visit the [GitHub repository](https://github.com/nguyenvulebinh/VietVoice-TTS).
